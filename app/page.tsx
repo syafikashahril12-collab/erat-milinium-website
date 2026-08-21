@@ -161,7 +161,7 @@ export default function Home() {
               NEED FREIGHT OR VESSEL CLEARANCE?
             </h2>
             <p className="mt-2 text-harbor/70">
-              Tell us the origin, shipment specs, and deadline — we&apos;ll handle the forwarding,
+              Tell us the origin, shipment specs, and deadline - we&apos;ll handle the forwarding,
               customs, and port operations.
             </p>
           </div>
