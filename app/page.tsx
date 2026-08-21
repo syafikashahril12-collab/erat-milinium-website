@@ -93,7 +93,7 @@ export default function Home() {
             </h2>
             <p className="mt-6 max-w-md text-steel">
               Every load has a deadline attached to someone else&apos;s
-              operation. That&apos;s the standard we plan around read more
+              operation. That&apos;s the standard we plan around - read more
               about how ERAT MILINIUM (M) Sdn Bhd works.
             </p>
             <Link
