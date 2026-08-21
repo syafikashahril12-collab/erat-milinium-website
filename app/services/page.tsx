@@ -117,7 +117,7 @@ export default function ServicesPage() {
           <div className="horizon-rule mt-8 w-40" />
           <p className="mt-6 max-w-xl text-steel">
             From vessel clearance at the port to the last mile on land, here
-            is where ERAT MILINIUM plugs in.
+            is where ERAT MILINIUM (M) Sdn Bhd plugs in.
           </p>
         </div>
       </section>
