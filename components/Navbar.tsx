@@ -27,8 +27,8 @@ export default function Navbar() {
             className="h-12 w-12 object-contain"
             priority
           />
-          <span className="font-display text-lg uppercase tracking-wide text-mist">
-            Erat Milinium
+          <span className="font-display text-sm uppercase tracking-wide text-mist md:text-base">
+            Erat Milinium (M) Sdn Bhd
           </span>
         </Link>
 

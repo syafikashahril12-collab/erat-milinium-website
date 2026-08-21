@@ -16,7 +16,7 @@ export default function Footer() {
               className="h-11 w-11 object-contain"
             />
             <span className="font-display text-base uppercase tracking-wide">
-              Erat Milinium
+              Erat Milinium (M) Sdn Bhd
             </span>
           </div>
           <p className="max-w-xs text-sm text-steel">
