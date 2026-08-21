@@ -87,7 +87,7 @@ export default function Home() {
               Who We Are
             </p>
             <h2 className="mt-4 font-display text-3xl uppercase leading-tight md:text-4xl">
-              Local Expertise. Global Connections
+              Local Expertise With Global Connections.
               <br />
               Committed to Service. Driven by Reliability.
             </h2>
@@ -158,11 +158,11 @@ export default function Home() {
         <div className="mx-auto flex max-w-6xl flex-col items-start justify-between gap-6 px-6 py-20 md:flex-row md:items-center">
           <div>
             <h2 className="font-display text-2xl uppercase text-harbor md:text-3xl">
-              Have cargo to move?
+              NEED FREIGHT OR VESSEL CLEARANCE?
             </h2>
             <p className="mt-2 text-harbor/70">
-              Tell us the route, the load and the deadline — we&apos;ll work
-              out the rest.
+              Tell us the origin, shipment specs, and deadline — we&apos;ll handle the forwarding,
+              customs, and port operations.
             </p>
           </div>
           <Link
