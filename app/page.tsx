@@ -11,15 +11,15 @@ export default function Home() {
             Est. Malaysia
           </p>
           <h1 className="fade-up max-w-3xl font-display text-4xl uppercase leading-tight text-mist md:text-6xl">
-            Logistics that runs
+            Reliable service, seamless
             <br />
-            on time, every time.
+            coordination & trusted support.
           </h1>
           <div className="horizon-rule fade-up my-8 w-40" />
           <p className="fade-up max-w-xl text-base text-steel md:text-lg">
-            ERAT MILINIUM (M) Sdn Bhd moves cargo and equipment across land,
-            sea and offshore sites — built for industries where a missed
-            schedule costs real money.
+            ERAT MILINIUM (M) Sdn Bhd is a Malaysian-based company providing
+            reliable shipping, forwarding, logistics, marine support and
+            project coordination services.
           </p>
           <div className="fade-up mt-10 flex flex-wrap gap-4">
             <Link
