@@ -87,9 +87,9 @@ export default function Home() {
               Who We Are
             </p>
             <h2 className="mt-4 font-display text-3xl uppercase leading-tight md:text-4xl">
-              Built by people who
+              Local Expertise. Global Connections
               <br />
-              answer the phone at 2am.
+              Committed to Service. Driven by Reliability.
             </h2>
             <p className="mt-6 max-w-md text-steel">
               Every load has a deadline attached to someone else&apos;s
